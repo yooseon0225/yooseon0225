@@ -6,7 +6,7 @@
 ```
 * * *
 	
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23EFC7FF&title_bg=%23FFACAC&icon=&icon_color=%23E7E7E7&title=%ED%95%98%ED%95%98&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyooseon0225&count_bg=%23B5BDFF&title_bg=%238798C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
   </div>
   
